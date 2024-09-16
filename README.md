@@ -168,12 +168,12 @@ You can also customize chatbot with different configuration
         footer: {
           textColor: '#303235',
           text: 'Powered by',
-          company: 'Flowise',
-          companyLink: 'https://flowiseai.com',
+          company: 'Trigi Digital',
+          companyLink: 'https://trigidigital.com',
         },
         disclaimer: {
           title: 'Disclaimer',
-          message: 'By using this chatbot, you agree to the <a target="_blank" href="https://flowiseai.com/terms">Terms & Condition</a>',
+          message: 'By using this chatbot, you agree to the <a target="_blank" href="https://trigidigital.com/term-condition/">Terms & Condition</a>',
         }
       },
     },
